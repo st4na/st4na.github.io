@@ -1,4 +1,4 @@
-# Google辞書編集作業
+# Google IME Project
 
 ## 兵語新辞典
 
