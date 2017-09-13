@@ -1,9 +1,9 @@
-# Google IME Project
+# Google日本語入力
 
 ## 兵語新辞典
 
 - [兵語新辞典1](https://ux.getuploader.com/heigo1)
 
-## ライセンス
+# ライセンス
 
 - [MIT LICENSE](LICENSE)
