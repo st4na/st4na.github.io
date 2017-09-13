@@ -2,8 +2,8 @@
 
 ## 兵語新辞典
 
-- [兵語新辞典1](wiki/heigo1.md)
+- [兵語新辞典1](https://ux.getuploader.com/heigo1)
 
 ## ライセンス
 
-- [MIT LICENSE](MIT)
+- [MIT LICENSE](LICENSE)
