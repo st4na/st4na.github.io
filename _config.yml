@@ -2,7 +2,7 @@ title: 情報支援隊 (ST4NA)
 description: Support Team for National Archives
 show_github_user_page: false
 show_downloads: false
-comments: false
+comments: true
 logo_url: https://avatars3.githubusercontent.com/u/9270777
 google_analytics:
 git_branch: master
