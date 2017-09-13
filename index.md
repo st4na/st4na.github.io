@@ -6,7 +6,7 @@
 
 ## 兵語新辞典
 
-- [兵語新辞典1](https://ux.getuploader.com/heigo1)
+- [兵語新辞典1](wiki/heigo)
 
 # ライセンス
 
