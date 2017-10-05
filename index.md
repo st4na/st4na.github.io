@@ -4,9 +4,9 @@
 
 # Google日本語入力
 
-## 兵語新辞典
-
-- [兵語新辞典1](wiki/heigo)
+- [兵語新辞典](https://ux.getuploader.com/heigo1/)
+- [海軍航空関係用語](https://ux.getuploader.com/kaigunkoukukankeiyougo/)
+- [海軍下士卒の生活](https://ux.getuploader.com/kaigunkashisotsu/)
 
 # ライセンス
 
